@@ -1,0 +1,10 @@
+name: astra-streaming
+title: Astra Streaming Documentation
+version: 2.10_2.1-draft
+start_page: astra-streaming::overview.adoc
+
+asciidoc:
+  attributes:
+
+nav:
+- modules/ROOT/nav.adoc
